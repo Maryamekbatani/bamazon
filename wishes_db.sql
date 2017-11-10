@@ -1,0 +1,1 @@
+SELECT * FROM wishes_db.wishes;
