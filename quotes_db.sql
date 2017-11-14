@@ -1,1 +1,0 @@
-SELECT * FROM quotes_db.quotes;

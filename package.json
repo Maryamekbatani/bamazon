@@ -2,18 +2,16 @@
   "name": "bamazon",
   "version": "1.0.0",
   "description": "",
-  "main": "bamazonCustomer.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Maryamekbatani/bamazon.git"
-  },
+  
   "author": "Maryam Ekbatani",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Maryamekbatani/bamazon/issues"
-  },
-  "homepage": "https://github.com/Maryamekbatani/bamazon#readme"
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
 }

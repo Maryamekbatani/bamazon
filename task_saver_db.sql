@@ -1,1 +1,0 @@
-SELECT * FROM task_saver_db.tasks;
